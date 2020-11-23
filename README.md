@@ -1,7 +1,6 @@
 # Dark Humor Internet Memes
 ## Detecting Dark Humor in Internet Memes
-How "offensiveness" is the meme below?
-![image](https://github.com/jl908069/Dark-humor/blob/master/example.jpeg)
+How "offensiveness" is the meme below?  ![image](https://github.com/jl908069/Dark-humor/blob/master/example.jpeg)
 | 4-point Dark Humor Scale | Dark Humor degree |
 | --- | --- |
 | Not dark humor, very safe joke | 0 |
